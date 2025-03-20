@@ -1592,7 +1592,7 @@ int main() {
 
     // Welcome message
     std::cout << "\033[1;36m========================================================\033[0m\n";
-    std::cout << "\033[1;33m             C++ VIRTUAL FILE SYSTEM by tj\033[0m\n";
+    std::cout << "\033[1;33m             C++ VIRTUAL FILE SYSTEM by ST\033[0m\n";
     std::cout << "\033[1;36m========================================================\033[0m\n";
     std::cout << "Type 'help' for a list of commands.\n\n";
 
