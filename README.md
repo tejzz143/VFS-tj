@@ -1,4 +1,4 @@
-Download the executable(.exe) for this project from the link below
+Download the executable(.exe) for this project using this link
 link : https://github.com/tejzz143/VFS-tj/releases/tag/VFS
 
 NOTE : after downloading run the VFS_ST.exe as administrator for the first time.
