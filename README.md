@@ -3,3 +3,7 @@ link : https://github.com/tejzz143/VFS-tj/releases/tag/VFS
 
 NOTE : after downloading run the VFS_ST.exe as administrator for the first time.
 from the next session you can open it normally. 
+
+The "root" login credentials : 
+username : root
+password : admin
